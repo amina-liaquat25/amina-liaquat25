@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat259@gmail.com)
 
 
-# Languages and Tools:
+#💻 Languages and Tools:
 <table>
   <tr>
     <td>
@@ -37,7 +37,7 @@
 
 
 
-# Github Status:
+# 🎯 Github Status:
 <p align="center">
  <a href="https://github.com/amina-liaquat25">
 <img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat25&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
