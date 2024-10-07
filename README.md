@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amina Liaquat</h1>
 
-- 🔭 I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad
-- 🌱 I’m currently learning Advance WordpressDevelopment (learning from iCodeGuru)
-- 🌱 Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges
-- 📫 How to reach me: aminaliaquat259@gmail.com
+- I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad
+- I’m currently learning Advance WordpressDevelopment (learning from iCodeGuru)
+- Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges
+- How to reach me: aminaliaquat259@gmail.com
 
   
 ## 🌐 Let's Connect
@@ -31,6 +31,12 @@
       <td>
       <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png"width="150px" height="100px"/>
     </td> 
+      <td>
+      <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"width="150px" height="100px"/>
+    </td> 
+      <td>
+      <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"width="150px" height="100px"/>
+    </td>
      
   </tr>
 </table>
