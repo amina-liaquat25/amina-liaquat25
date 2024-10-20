@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amina Liaquat</h1>
 
-- I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad
+- I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad.
+- Winner, Harvard CS50x Puzzle Day '2024.
 - I’m currently learning Advance WordpressDevelopment (learning from iCodeGuru)
 - Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges
-- How to reach me: aminaliaquat259@gmail.com
-
+- Improving my Typing Speed at Monkeytype.
   
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-liaquat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat259@gmail.com)
+[![Leetcode](https://img.shields.io/badge/Leetcode-181717?style=for-the-badge&logo=leetcode&logoColor=brown)](https://leetcode.com/u/amina_liaquat04/)
 
 
-# Skills:
+
+
+## 🛠 Skills & Tools:
 <table>
   <tr>
     <td>
@@ -37,7 +40,31 @@
       <td>
       <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"width="150px" height="100px"/>
     </td>
-     
+   </tr>
+  <tr>
+    <td>
+      <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"width="150px" height="100px"/>
+    </td>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s"width="150px" height="100px"/>
+    </td>
+     <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5qoh2GS_WbBtD2Zz6I9z8JaagZ9zEoLlNw&s"width="150px" height="100px"/>
+    </td>
+    <td>
+      <img src="https://static-00.iconduck.com/assets.00/wordpress-original-icon-995x1024-wtwvmn9s.png"width="150px" height="100px"/>
+    </td>
+    <td>
+      <img src="https://toppng.com/uploads/preview/php-logo-png-transparent-background-116609464715urkf2zddu.png"width="150px" height="100px"/>
+    </td>
+    <td>
+      <img src="https://www.pngfind.com/pngs/m/62-626470_python-logo-png-anaconda-python-transparent-png.png"width="150px" height="100px"/>
+    </td>
+    <td>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-pycharm-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-logos-pack-icons-1175011.png?f=webp"width="150px" 
+      height="100px"/>
+    </td>
+    
   </tr>
 </table>
 
