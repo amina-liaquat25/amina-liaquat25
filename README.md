@@ -2,7 +2,7 @@
 
 - I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad.
 - Winner, Harvard CS50x Puzzle Day '2024.
-- I’m currently learning Advance WordpressDevelopment (learning from iCodeGuru)
+- Actively working on Wordpress Development
 - Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges
 - Improving my Typing Speed at Monkeytype.
   
