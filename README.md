@@ -26,13 +26,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"width="100px" height="100px"/>
       </td>
      <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYGp77iCyUMjrntTtlvsVE6LdX9UHqHR9hw&s"width="100px" height="100px"/> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_MmoQpDynP-TspvxgWs9F33obxyfR31ucA&s"width="100px" height="100px"/> 
       </td>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9ZtNVVKLG6V3CoIAQfv4APY5OST9nyMcDg&s"width="130px" height="100px"/>
     </td> 
       <td>
-      <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png"width="150px" height="100px"/>
+      <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9Teuqv1hGXayFZM2Oigvv-b6Stx0e2H6QukFZaasqnz7qgP6K"width="150px" height="100px"/>
     </td> 
       <td>
       <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"width="150px" height="100px"/>
