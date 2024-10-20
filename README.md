@@ -2,11 +2,11 @@
 
 - I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad.
 - Winner, Harvard CS50x Puzzle Day '2024.
-- Actively working on Wordpress Development
-- Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges
+- Actively working on Wordpress Development.
+- Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges.
 - Improving my Typing Speed at Monkeytype.
   
-## 🌐 Let's Connect
+## 🌐 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-liaquat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat25)
@@ -16,7 +16,7 @@
 
 
 
-## 🛠 Skills & Tools:
+## 🛠 Languages & Tools:
 <table>
   <tr>
     <td>
