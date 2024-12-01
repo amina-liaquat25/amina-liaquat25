@@ -73,12 +73,12 @@
 # 🎯 Github Status:
 <p align="center">
  <a href="https://github.com/amina-liaquat25">
-<img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat25&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+<img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat25&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat25&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
  </a>
 </p>
 
 <p align="center">
  <a href="https://github.com/amina-liaquat25"> 
- <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat25&theme=algolia&hide_border=true" /> 
+ <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat25&theme=nightowl&hide_border=true" /> 
  </a> 
 </p>
