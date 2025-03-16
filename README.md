@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-liaquat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat259@gmail.com)
-[![Leetcode](https://img.shields.io/badge/Leetcode-181717?style=for-the-badge&logo=leetcode&logoColor=brown)](https://leetcode.com/u/amina_liaquat04/)
+
 
 
 
@@ -42,7 +42,7 @@
    </tr>
   <tr>
     <td>
-      <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"width="150px" height="100px"/>
+      <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"width="150px" height="100px"/>
     </td>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s"width="150px" height="100px"/>
