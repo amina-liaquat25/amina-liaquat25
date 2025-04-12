@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amina Liaquat</h1>
 
 - I’m currently pursuing my MS in Computer Sceince from University of Agriculture Faisalabad.
-- Winner, Harvard CS50x Puzzle Day '2024.
+- Winner, Harvard CS50x Puzzle Day '2024 & 2025.
 - Actively working on Wordpress Development.
 - Actively working on Data Structures and Algorithms (DSA) & LeetCode challenges.
 - Improving my Typing Speed at Monkeytype.
